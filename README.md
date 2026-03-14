@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-file -->
-@"
 # 💻 Pius's Programming Portfolio
 
 > From Network Engineering student at UPSA, Accra — to Full-Stack Engineer.
@@ -41,5 +40,3 @@
 | 8 | Python | Files + error handling | Subnet notes saver |
 | 9 | Bash | Navigation + grep | Ping script for 5 IPs |
 | 10 | Python | Modules + pip | Network info script |
-| 11 | Python | OOP basics | NetworkDevice class |
-"@ | Set-Content README.md

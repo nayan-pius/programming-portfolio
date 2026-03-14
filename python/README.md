@@ -1,5 +1,4 @@
 <!-- markdownlint-disable-file -->
-@"
 # 🐍 Python — Learning Journey
 
 > Started: March 2026 | Language #1 of 6
@@ -15,4 +14,3 @@
 | Week 8 | Files + error handling | Subnet notes saver | 🔲 Not started |
 | Week 10 | Modules + pip | Network info script | 🔲 Not started |
 | Week 11 | OOP basics | NetworkDevice class | 🔲 Not started |
-"@ | Set-Content python/README.md
