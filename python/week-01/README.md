@@ -25,7 +25,7 @@ A command-line calculator that takes two numbers and performs addition, subtract
 ## 💻 How to Run
 
 ```bash
-python calculator.py
+python calculator.ipynb
 ```
 
 **Sample interaction:**
@@ -63,6 +63,6 @@ In network engineering, calculators like this are the foundation of tools that c
 
 ## 🔗 Files
 
-- `calculator.py` — main project file
-- `exercises.py` — Wednesday practice code
+- `calculator.ipynb` — main project file
+- `exercises.ipynb` — Wednesday practice code
 - `notes.md` — Week 1 concept notes
