@@ -7,7 +7,7 @@
 
 **Name:** Pius
 **School:** University of Professional Studies, Accra (UPSA), Ghana
-**Level:** 200 — BSc. Information Technology Management
+**Level:** 200 — BSc. Information Technology 
 **Career Goal:** Network Engineer → Complete Software Engineer
 **Started:** March 2026
 
