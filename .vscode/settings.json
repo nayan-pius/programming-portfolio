@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Practice",
+            "database": "${workspaceFolder:programming-portfolio}/sql/week-04/Practices_data.db"
+        }
+    ]
+}
