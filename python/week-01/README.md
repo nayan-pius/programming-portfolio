@@ -63,6 +63,6 @@ In network engineering, calculators like this are the foundation of tools that c
 
 ## 🔗 Files
 
-- `calculator.ipynb` — main project file
-- `exercises.ipynb` — Wednesday practice code
-- `notes.md` — Week 1 concept notes
+- [calculator.ipynb](calculator.ipynb) — main project file
+- [exercises.ipynb](exercises.ipynb) — Wednesday practice code
+- [notes.md](notes.md) — Week 1 concept notes

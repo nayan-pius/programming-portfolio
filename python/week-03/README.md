@@ -79,6 +79,6 @@ Password checkers are used in network device management systems to enforce stron
 
 ## 🔗 Files
 
-- `password_strength_checker.ipynb` — main project file
-- `exercises.ipynb` — Wednesday practice notebook
-- `notes.md` — Week 3 concept notes
+- [password_strength_checker.ipynb](password_strength_checker.ipynb) — main project file
+- [exercises.ipynb](exercises.ipynb) — Wednesday practice notebook
+- [notes.md](notes.md) — Week 3 concept notes

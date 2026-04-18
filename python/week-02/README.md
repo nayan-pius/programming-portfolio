@@ -60,6 +60,6 @@ In network engineering, loops like this are used to retry connections — keep a
 
 ## 🔗 Files
 
-- `number_guessing_game.ipynb` — main project file
-- `exercises.ipynb` — Wednesday practice notebook
-- `notes.md` — Week 2 concept notes
+- [number_guessing_game.ipynb](number_guessing_game.ipynb) — main project file
+- [exercises.ipynb](exercises.ipynb) — Wednesday practice notebook
+- [notes.md](notes.md) — Week 2 concept notes
